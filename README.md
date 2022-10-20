@@ -6,7 +6,7 @@
 
 ## 章节简介
 
-### 1. Chapter 1 NLP简介 - [NNLM.ipynb](https://colab.research.google.com/github/graykode/nlp-tutorial/blob/master/1-1.NNLM/NNLM.ipynb)
+### 1. Chapter 1 NLP简介 - [NNLM.ipynb](https://github.com/superlin30/NLP-with-Python/blob/main/Chapter%201%20NLP%E7%AE%80%E4%BB%8B/Chapter%201%20NLP%E7%AE%80%E4%BB%8B.ipynb)
 此章节将介绍自然语言文本的内涵和当前的主要任务，例如文本分类、情绪分析、命名实体识别 (NER)、文本摘要、文本生成。并直接调用简单的代码直观实现当前的一些NLP任务。
 
 
