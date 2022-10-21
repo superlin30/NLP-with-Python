@@ -63,3 +63,14 @@
 
 ### 11. Chapter 11 TTS文本到语音模型
 (待补充)
+
+## 相关文献
+- Word2Vec - [Distributed Representations of Words and Phrases
+    and their Compositionality(2013)](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
+- 数据增强(噪声技术) - [EDA: Easy Data Augmentation Techniques for Boosting Performance on Text Classification Tasks](https://arxiv.org/pdf/1901.11196.pdf)
+- textRNN - [Finding Structure in Time(1990)](http://psych.colorado.edu/~kimlab/Elman1990.pdf)
+- textLSTM - [LONG SHORT-TERM MEMORY(1997)](https://www.bioinf.jku.at/publications/older/2604.pdf)
+- Transformer - [Attention Is All You Need(2017)](https://arxiv.org/abs/1706.03762)
+- BERT - [BERT: Pre-training of Deep Bidirectional Transformers for Language Understanding(2018)](https://arxiv.org/abs/1810.04805)
+
+(待补充)
