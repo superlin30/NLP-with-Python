@@ -49,8 +49,16 @@
 ### 6. Chapter 6 循环神经网络(RNN LSTM) - [循环神经网络.ipynb](https://github.com/superlin30/NLP-with-Python/blob/main/Chapter%206%20%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C(RNN%20LSTM)/%E5%BE%AA%E7%8E%AF%E7%A5%9E%E7%BB%8F%E7%BD%91%E7%BB%9C(RNN%20LSTM).ipynb) 
 此章节将详细介绍经典的循环神经网络RNN与LSTM，并利用详细拆解的python代码实现其功能与架构，最后通过循环神经网络进行NLP任务示例。
 
+- 6-1. RNN
+- 6-2. LSTM
+- 6-3. 利用循环神经网络实现文本生成
+
 ### 7. Chapter 7 注意力机制与Transformer - [注意力机制与Transformer.ipynb](https://github.com/superlin30/NLP-with-Python/blob/main/Chapter%207%20Attention%E6%9C%BA%E5%88%B6%E4%B8%8Etransformer/Attention%E6%9C%BA%E5%88%B6%E4%B8%8Etransformer_2_17.ipynb) 
 此章节通过代码学习当前NLP领域主流的注意力机制与Transformer模型，并利用Transformer模型完成虚假文本评论识别任务。
+
+- 7-1. 注意力机制(Attention)
+- 7-2. transformer结构
+- 7-3. 利用transformer结构实现文本分类任务(虚假评论识别)
 
 ### 8. Chapter 8 预训练模型BERT
 此章节介绍经典NLP预训练模型BERT，并利用代码实现基于BERT模型的新闻文本多标签分类任务，掌握从网络上调用各种经典的预训练模型进行微调并完成下游任务的基本流程。
