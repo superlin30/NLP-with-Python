@@ -72,6 +72,12 @@
 ### 11. Chapter 11 TTS文本到语音模型
 (待补充)
 
+###11. Chapter 12 基于人类喜好的NLP增强学习(chatgpt前身)
+(待补充)
+
+###11. Chapter 13 chatgpt流程复现
+(待补充)
+
 ## 相关文献
 - Word2Vec - [Distributed Representations of Words and Phrases
     and their Compositionality(2013)](https://papers.nips.cc/paper/5021-distributed-representations-of-words-and-phrases-and-their-compositionality.pdf)
