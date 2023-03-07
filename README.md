@@ -72,10 +72,10 @@
 ### 11. Chapter 11 TTS文本到语音模型
 (待补充)
 
-###11. Chapter 12 基于人类喜好的NLP增强学习(chatgpt前身)
+### 12. Chapter 12 基于人类喜好的NLP增强学习(chatgpt前身)
 (待补充)
 
-###11. Chapter 13 chatgpt流程复现
+### 13. Chapter 13 chatgpt流程复现
 (待补充)
 
 ## 相关文献
